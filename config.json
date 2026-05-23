@@ -1,0 +1,26 @@
+{
+    "f_start": 60.10001e9,
+    "f_stop":  60.60155e9,
+    "ADC_Samples": 1024,
+    "c": 3e8,
+
+    "adc_rate": 6000000,
+
+    "num_tags": 1,
+    "chirps": 1,
+    "rx": 4,
+    "tx": 3,
+
+    "vertical_antenna_index":   [1, 0, 5, 4],
+    "horizontal_antenna_index": [7, 5, 11, 9],
+
+    "left_discard":  50,
+    "right_discard": 5,
+
+    "fft_zeropad": 1,
+    "window_size": 10,
+    "peak_finding_startbin": 90,
+    "peak_finding_reference_error_thresh": 10,
+    "distance_no_rel": false,
+    "distance_resolution": 128
+}
