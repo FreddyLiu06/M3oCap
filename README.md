@@ -91,8 +91,6 @@ green_block: 20-26,30-35
 red_block: 10-17
 ```
 
-When `moving_times.txt` is present, error evaluation are restricted to the specified moving intervals per tag.
-
 ## Command-line options
 
 Both scripts share the same flags:
