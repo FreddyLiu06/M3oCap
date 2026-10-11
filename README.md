@@ -82,15 +82,6 @@ green_block: 1.4
 red_block: 1.6
 ```
 
-### moving_times.txt format
-
-```
-All units in s
-yellow_block: 3-8
-green_block: 20-26,30-35
-red_block: 10-17
-```
-
 ## Command-line options
 
 Both scripts share the same flags:
